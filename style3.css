@@ -1,0 +1,71 @@
+body {
+    margin: 40px;
+     
+}
+ul {
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+}
+.navbar-li {
+  display:inline-block;
+    list-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+   font-size: 22px;
+}
+
+
+.kontaqti a{
+  color: #E53D34;
+}
+
+.navbar-li a{
+  text-decoration: none;
+  color: 3D58A6;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+img.fb  {
+    margin-right: 30px;
+    width: 14px;
+    height: 30px;
+}
+img.youtube {
+    margin-left: 30px;
+    width: 24.81px;
+    height: 30px;
+}
+
+.text-block p#blue {
+    color: blue;
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.container{
+  font-size: 16px;
+  border-top-width: 96px;
+  border-bottom-width: 79px;
+  background-color: #E6E6E6;
+  margin-left: 87px;
+
+}
+#tavsarti {
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    /*overflow-x: auto;*/
+    /*overflow-y: hidden;*/
+    margin-bottom: 20px;
+}
+
+#tavsarti > li {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    }
+
+.text-block 
